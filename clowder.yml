@@ -1,7 +1,7 @@
 name: my-first-clowder
 
 clowder:
-  - JrGoodle/mu
-  - JrGoodle/duke
-  - JrGoodle/kit
-  - JrGoodle/kishka
+  - polka-dot-cat/mu
+  - polka-dot-cat/duke
+  - polka-dot-cat/kit
+  - polka-dot-cat/kishka

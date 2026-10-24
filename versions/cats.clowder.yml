@@ -10,30 +10,30 @@ defaults:
 
 clowder:
   carnivora/feliforma:
-    - name: JrGoodle/felidae
+    - name: polka-dot-cat/felidae
       branch: felid
       git:
         lfs: true
         submodules: recursive
   cats:
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       branch: knead
       git:
         depth: 1
-    - name: JrGoodle/duke
+    - name: polka-dot-cat/duke
       tag: v0.01
   black-cats:
     path: black-cats
     projects:
-      - name: JrGoodle/kit
+      - name: polka-dot-cat/kit
         commit: f2e20031ddce5cb097105f4d8ccbc77f4ac20709
-      - name: JrGoodle/kishka
+      - name: polka-dot-cat/kishka
         git:
           config:
             alias.cat: '!echo "😸😸😸"'
-      - name: JrGoodle/june
+      - name: polka-dot-cat/june
         git:
           config:
             alias.cat: null
-      - name: JrGoodle/sasha
+      - name: polka-dot-cat/sasha
         remote: catnip
